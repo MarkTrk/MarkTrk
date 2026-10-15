@@ -1,16 +1,29 @@
-## Hi there 👋
+## Mark Torok — Data Analyst
 
-<!--
-**MarkTrk/MarkTrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sheffield, UK. Career changer, self-taught, building in public.
 
-Here are some ideas to get you started:
+I learned SQL by replacing my own 16-tab accounting spreadsheet with a
+layered pipeline — staging, cleansed and reporting — that reconciles two
+bank accounts against invoice records, flags discrepancies, and produces
+the figures my accountant files. Everything below is practice for that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** MySQL · Power BI · Excel · Git
+
+### Projects
+
+**[south-yorkshire-crime-analysis](https://github.com/MarkTrk/south-yorkshire-crime-analysis)**
+Three-page Power BI dashboard over 424K police records, built to support a
+real relocation decision.
+
+**[cafe-sales-sql-cleaning](https://github.com/MarkTrk/cafe-sales-sql-cleaning)**
+MySQL cleaning of a 10,000-row transactional dataset: damage assessment,
+rule-based recovery of 1,430 rows, and a data quality framework measuring
+completeness, validity, uniqueness, consistency and timeliness. Values that
+could not be derived were left unguessed, and documented as such.
+
+### What I care about
+
+Knowing a number is right before I report it. Every project here has a
+validation step that proves nothing was lost or invented along the way.
+
+📫 [LinkedIn](https://www.linkedin.com/in/marktorok-data)
